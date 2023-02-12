@@ -10,5 +10,5 @@ class Config(object):
     # The Telegram API things
     API_ID = os.environ.get("8130624")
     API_HASH = os.environ.get("67a71560b00a31ffa692c67428f06d38")
-    AUTH_USERS = os.environ.get("2018633153")
+    AUTH_USERS = os.environ.get("")
 
